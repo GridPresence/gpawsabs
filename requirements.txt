@@ -1,2 +1,9 @@
 boto3
+pytest
+sphinx
+sphinx-rtd-theme
+setuptools
+wheel
+twine
+tbump
 
